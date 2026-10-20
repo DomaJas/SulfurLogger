@@ -1,0 +1,9 @@
+name: sulfurlogger
+version: '${version}'
+
+main: org.domaja.Sulfurlogger
+api-version: '26.3'
+depend: [CoreProtect]
+description: CoreProtect аддон - логирование серных кубов.
+load: POSTWORLD
+author: JaZemla
