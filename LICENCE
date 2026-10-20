@@ -1,0 +1,189 @@
+# JaZemla/DomaJa — Strict Proprietary Plugin License
+
+Copyright (c) 2026 JaZemla/DomaJa
+All Rights Reserved.
+
+## 1. Ownership
+
+This Software, including its source code, compiled code, documentation, assets, configuration files, and all associated materials ("Software"), is the exclusive property of JaZemla/DomaJa ("Author") and is protected by applicable copyright and intellectual property laws.
+
+No ownership rights are transferred to any person or entity by obtaining, downloading, installing, or possessing a copy of the Software.
+
+## 2. No Automatic License
+
+**NO LICENSE IS GRANTED BY DEFAULT.**
+
+The Software may be used only by individuals or entities that have received explicit written permission from the Author.
+
+Downloading, obtaining, possessing, installing, or accessing the Software does not constitute permission to use it.
+
+Permission must be explicitly granted by the Author in writing.
+
+The Author may refuse permission to any individual, organization, company, server, project, or other entity at the Author's sole discretion.
+
+## 3. Authorized Use Only
+
+A person or entity may use the Software only within the scope explicitly authorized by the Author.
+
+Any use outside the scope of the granted permission is prohibited.
+
+Unless explicitly authorized in writing, the following activities are prohibited:
+
+* using the Software for any purpose;
+* installing or running the Software;
+* using the Software on a server;
+* using the Software on a public or private multiplayer server;
+* using the Software as part of a commercial or non-commercial project;
+* integrating the Software into another plugin, mod, application, service, or product;
+* modifying the Software;
+* creating derivative works based on the Software;
+* copying the Software;
+* distributing or publishing the Software;
+* uploading the Software to repositories, websites, file-sharing services, or other platforms;
+* selling, renting, leasing, sublicensing, or otherwise transferring the Software;
+* making the Software available to third parties.
+
+## 4. No Server Use
+
+Unless the Author has provided explicit written authorization, the Software **MUST NOT** be installed, executed, hosted, or otherwise used on:
+
+* dedicated servers;
+* multiplayer servers;
+* public servers;
+* private servers;
+* cloud servers;
+* virtual servers;
+* proxy servers;
+* server networks;
+* hosting services;
+* any other server-side environment.
+
+Server use requires separate explicit written permission from the Author.
+
+## 5. No Forks or Derivative Works
+
+Creating, maintaining, publishing, or distributing a fork of the Software is strictly prohibited without prior written permission from the Author.
+
+This includes, but is not limited to:
+
+* GitHub forks;
+* GitLab forks;
+* Bitbucket forks;
+* modified copies;
+* renamed versions;
+* rewritten versions substantially based on the Software;
+* derivative plugins or modifications;
+* ports to other platforms.
+
+A fork or derivative project does not receive any license merely because its creator obtained the original Software.
+
+## 6. No Reverse Engineering
+
+To the maximum extent permitted by applicable law, the following activities are prohibited without prior written permission from the Author:
+
+* decompiling the Software;
+* disassembling the Software;
+* reverse engineering the Software;
+* attempting to reconstruct source code;
+* extracting proprietary algorithms or implementation details;
+* bypassing technical protections;
+* analyzing compiled code for the purpose of reproducing or creating a competing implementation;
+* modifying or patching compiled binaries.
+
+Nothing in this section prohibits activities that cannot legally be restricted under applicable mandatory law.
+
+## 7. No Commercial Use
+
+The Software may not be:
+
+* sold;
+* resold;
+* rented;
+* leased;
+* licensed to third parties;
+* included in a paid product;
+* included in a paid service;
+* used to provide a commercial service;
+* monetized directly or indirectly.
+
+Commercial use requires a separate written commercial license from the Author.
+
+## 8. No Redistribution
+
+Redistribution of the Software is strictly prohibited unless explicitly authorized in writing.
+
+This includes redistribution through:
+
+* websites;
+* repositories;
+* Discord servers;
+* forums;
+* file-sharing services;
+* mod/plugin repositories;
+* archives;
+* mirrors;
+* package managers;
+* private distribution channels.
+
+A recipient may not give the Software to another person unless the Author has explicitly authorized such transfer.
+
+## 9. No Removal of Notices
+
+Copyright notices, license notices, author attribution, trademarks, identifiers, or other proprietary notices included with the Software must not be removed, obscured, or altered.
+
+## 10. Revocation of Permission
+
+Any permission granted by the Author may be revoked at any time by written notice, subject to applicable law and the terms of any separate written agreement.
+
+Upon revocation, the affected party must immediately cease all use of the Software and cease distributing, hosting, or making the Software available to third parties.
+
+## 11. Unauthorized Use
+
+Any use of the Software without explicit authorization from the Author constitutes unauthorized use.
+
+The Author reserves all rights and remedies available under applicable law in relation to unauthorized use, copying, distribution, modification, reverse engineering, or other infringement of the Author's rights.
+
+## 12. No Transfer of Rights
+
+No rights are transferred or granted except those expressly stated in a written authorization issued by the Author.
+
+Possession of a copy of the Software does not grant any license or permission.
+
+## 13. Exceptions Required by Law
+
+Nothing in this license is intended to restrict rights that cannot legally be restricted under mandatory applicable law.
+
+Where applicable law grants a mandatory right to perform a specific act, that right remains unaffected to the extent required by law.
+
+## 14. Separate Written Permission
+
+The Author may grant individual exceptions or additional permissions through a separate written agreement.
+
+Such permission:
+
+1. applies only to the individual or entity named in the authorization;
+2. applies only to the activities expressly permitted;
+3. does not create a general license;
+4. does not authorize third parties to perform the same activities;
+5. does not permit redistribution unless explicitly stated.
+
+## 15. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT, TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+
+## 16. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, LOSS, OR OTHER LIABILITY ARISING FROM OR RELATED TO THE SOFTWARE OR ITS USE.
+
+## 17. Reservation of Rights
+
+**ALL RIGHTS NOT EXPRESSLY GRANTED ARE RESERVED.**
+
+No person or entity may use, copy, modify, distribute, reverse engineer, fork, sell, sublicense, host, or otherwise exploit the Software without explicit written permission from JaZemla/DomaJa.
+
+---
+
+**Copyright (c) 2026 JaZemla/DomaJa**
+**All Rights Reserved.**
+
+**Unauthorized use is prohibited.**
